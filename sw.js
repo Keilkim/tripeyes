@@ -1,4 +1,4 @@
-const CACHE = 'shenzhen-v9';
+const CACHE = 'shenzhen-v10';
 const CORE = ['./', './index.html', './tiles.json', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
